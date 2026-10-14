@@ -7,7 +7,7 @@ import { categorias } from "@/lib/catalogo";
 // Textos de prueba: revisar con la familia antes de publicar.
 const RUBROS = [
   { titulo: "Repuestos de moto", texto: "Juntas, manchones, tacos de maza, filtros y pedalines para las motos más vendidas.", img: "/img/cat-motos.jpg", href: "/catalogo?c=motos" },
-  { titulo: "Bieletas", texto: "Kits de bieletas de barra estabilizadora para autos y camionetas.", img: "/img/cat-bieletas.jpg", href: "/catalogo?c=bieletas" },
+  { titulo: "Bieletas", texto: "Bieletas de barra estabilizadora para autos y camionetas. Próximamente en el catálogo online.", img: "/img/cat-bieletas.jpg", href: "#contacto" },
   { titulo: "Bujes, topes y soportes", texto: "Piezas de suspensión y tren delantero. Próximamente en el catálogo online.", img: "/img/cat-bujes.jpg", href: "#contacto" },
 ];
 
